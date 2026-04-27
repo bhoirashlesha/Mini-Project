@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".git": true,
+    "*.log": true,
+    ".DS_Store": true,
+    "database.sqlite": false
+  },
+  "search.exclude": {
+    "node_modules": true,
+    ".git": true,
+    "dist": true,
+    "build": true
+  }
+}
